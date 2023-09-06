@@ -24,11 +24,13 @@ const Input = styled.input`
 
 const InputFirstName = styled(Input)`
 float:left;
+width:140px;
 `;
 
 
 const InputLastName = styled(Input)`
 float:right;
+width:140px;
 `;
 
 
